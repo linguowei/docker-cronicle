@@ -1,7 +1,7 @@
-FROM       node:10.11-alpine
+FROM       node:16.7.0
 LABEL      maintainer="Nicholas Amorim <nicholas@pagefreezer.com>"
 
-ARG        CRONICLE_VERSION='0.8.45'
+ARG        CRONICLE_VERSION='0.8.61'
 
 # Docker defaults
 ENV        CRONICLE_base_app_url 'http://localhost:3012'
