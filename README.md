@@ -7,7 +7,7 @@ This image fixes a known issue with the intelliops/belsander image: https://gith
 
 # Supported tags
 
-* `latest`, `0.8.45`, [Dockerfile](https://raw.githubusercontent.com/belsander/docker-cronicle/master/Dockerfile)
+* `latest`, `0.8.61`, [Dockerfile](https://raw.githubusercontent.com/belsander/docker-cronicle/master/Dockerfile)
 * `latest-s3` , `0.8.45-s3`,[Dockerfile.s3](https://raw.githubusercontent.com/belsander/docker-cronicle/master/Dockerfile.s3)
 
 * `0.8.28` [Dockerfile](https://raw.githubusercontent.com/belsander/docker-cronicle/master/Dockerfile)
